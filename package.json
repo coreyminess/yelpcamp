@@ -1,0 +1,27 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "YelpCamp v1",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreyminess/yelpcamp.git"
+  },
+  "author": "Corey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreyminess/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/coreyminess/yelpcamp#readme",
+  "keywords": [
+    "YelpCamp"
+  ]
+}
